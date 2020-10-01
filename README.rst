@@ -1,4 +1,4 @@
-django-ajax-search
+Django-AJAX-Search
 ===================
 
 A customizable AJAX-powered search for Django.
@@ -7,7 +7,7 @@ Features
 -----------------------------------
 
 - Works with the latest jQuery library version
-- Displays instant search results as you type
+- Displays instant search results at the time of typing
 
 
 Installation Requirements
